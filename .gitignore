@@ -1,2 +1,4 @@
 bookr_project/env/db.env
 bookr_project/env/web.env
+juggler_project/env/db.env
+juggler_project/env/web.env
